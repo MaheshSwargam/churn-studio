@@ -1,1 +1,1 @@
-# churn-studio
+# Customer-churn-prediction-codec

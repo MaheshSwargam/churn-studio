@@ -1,0 +1,4 @@
+Model,Accuracy (%),Precision (%),Recall (%)
+Logistic Regression,86.06,64.29,17.82
+Random Forest,92.65,86.11,61.39
+XGBoost,92.65,85.14,62.38
